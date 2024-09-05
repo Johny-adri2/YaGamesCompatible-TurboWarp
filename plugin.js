@@ -251,7 +251,7 @@
         return;
       }
       var script = document.createElement("script");
-      script.src = "https://yandex.ru/games/sdk/v2";
+      script.src = "https://sdk.games.s3.yandex.net/sdk.js";
       document.head.appendChild(script);
       script.onload = async function () {
         console.log(YaGames);
