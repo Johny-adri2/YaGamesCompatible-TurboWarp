@@ -1,7 +1,8 @@
 ![logo](https://raw.githubusercontent.com/timaaos/YandexGamesTurboWarp/main/logo.png)
 # YandexGamesTurboWarp
-Расширение Yandex Games SDK для Турбоварпа. Не работает в режиме песочницы.
+Обновление расширения Yandex Games SDK для Турбоварпа. Не работает в режиме песочницы.
 #### Плюсы:
+ + Новейший способ загрузки API
  + Маленький билд
  + Это Турбоварп (быстрый, компилируемый мод скретча)
 ## Как начать использовать?
